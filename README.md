@@ -1,5 +1,5 @@
+## Customer Review Intelligence 
 
-Customer Review Intelligence
 
 An end-to-end natural language processing project that analyzes Amazon Fine Food Reviews to classify customer sentiment, interpret model predictions, and identify common complaint themes using topic modeling.
 
